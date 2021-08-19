@@ -67,6 +67,7 @@ Additional factors to consider include:
   - Availability of staff
   - Potential cancellations of surfing events could mean fewer customers
   - Costs related to staffing and supplies needed for sanitation
+ 
 
 
    
