@@ -27,7 +27,7 @@ The summary statistics for temperatures in the month of December were:
   - Upper Quartile - 74
   
 ## Summary
-The results indicate that the temperatures for December are a little cooler than those for June but the average temperature difference is only four degrees. The highest and lowest temperatures on record and the average temperature overall for the most active weather station were also retrieved fronm the the Hawaii sqlite data. The highest and lowest temperatures on record respectively were 85 and 54 degress Fahrenheit. The average temperature overall was 72 degrees Fahrenheit.
+The results indicate that the temperatures for December are a little cooler than those for June but the average temperature difference is only four degrees. The highest and lowest temperatures on record and the average temperature overall for the most active weather station were also retrieved from the the Hawaii sqlite data. The highest and lowest temperatures on record respectively were 85 and 54 degress Fahrenheit. The average temperature overall was 72 degrees Fahrenheit.
 
 Mild temperatures indicate that a surf and ice cream shop could do well but precipitation should also be considered. Consumers may not be as interested in surfing or eating ice cream when it is raining. The summary statistics, highest and lowest recorded rainfall amounts and the average rainfall amount overall at the most active weather station were retrieved from the Hawaii sqlite data to further assist the client.
 The summary statistics for rainfall in the the month of June were:
