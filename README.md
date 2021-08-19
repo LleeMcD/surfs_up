@@ -67,8 +67,10 @@ Additional factors to consider include:
   - Availability of staff
   - Potential cancellations of surfing events could mean fewer customers
   - Costs related to staffing and supplies needed for sanitation
- 
-
+- Other outside influences
+  -  Increasing populations of stinging jelly fish
+  -  Insects 
+  
 
    
 
