@@ -59,7 +59,7 @@ The weather overall looks favorable for the client's business venture. However, 
 Additional factors to consider include:
 - Target Demographic
   - Who is your customer?
-   - Professional surfer, novice or other category
+    - Professional surfer, novice or other category
 - Goods and services provided
 - Overhead costs  
 - COVID19 pandemic implications
