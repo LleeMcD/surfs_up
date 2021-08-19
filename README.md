@@ -4,7 +4,7 @@
 Oahu, Hawaii is reputed to be the home of several famous surfing beaches with some of the best wave riding in the world. The client, who is himself a surfer, is interested in opening a surf and ice cream shop in Oahu but needs to know if it would be sustainable year-round. In addition, the client has an investor who needs reassurance that this is a reliable venture before he will provide any funds. The client specifically requested an analysis of temperatures for the months of June and December. 
 ## Results
 Hawaii sqlite data was utilized to query the summary statistics for June and December.
-The temperature summary statistics for the month of June are:
+The summary statistics for temperatures in the month of June are:
 - Count of Observations - 1,700
 - Standard Deviation - 3.26
 - Temperature in Degrees Fahrenheit
@@ -15,7 +15,7 @@ The temperature summary statistics for the month of June are:
   - Median Quartile - 75
   - Upper Quartile - 85
 
-The temperature summary statistics for the month of December are:
+The summary statistics for temperatures in the month of December are:
 - Count of Observations - 1,517
 - Standard Deviation - 3.75
 - Temperature in Degrees Fahrenheit
@@ -30,7 +30,7 @@ The temperature summary statistics for the month of December are:
 The results indicate that the temperatures for December are a little cooler than those for June but the average temperature difference is only four degrees. The highest and lowest temperatures on record and the average temperature overall for the most active weather station were also retrieved fronm the the Hawaii sqlite data. The highest and lowest temperatures on record respectively were 85 and 54 degress Fahrenheit. The average temperature overall was 72 degrees Fahrenheit.
 
 Mild temperatures indicate that a surf and ice cream shop could do well but precipitation should also be considered. Consumers may not be as interested in surfing or eating ice cream when it is raining. The summary statistics, highest and lowest recorded rainfall amounts and the average rainfall amount overall at the most active weather station were retrieved from the Hawaii sqlite data to further assist the client.
-The rainfall summary statistics for the month of June are:
+The summary statistics for rainfall in the the month of June are:
 - Count of Observations - 1,574
 - Rainfall in Inches
   - Minimum - 0.00
@@ -41,7 +41,7 @@ The rainfall summary statistics for the month of June are:
   - Median Quartile - 0.02
   - Upper Quartile - 0.12
 
-The rainfall summary statistics for the month of December are
+The summary statistics for rainfall in the month of December are
 - Count of Observations - 1,405
 - Rainfall in Inches
   - Minimum - 0.00
