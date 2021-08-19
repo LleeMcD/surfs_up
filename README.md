@@ -1,6 +1,6 @@
 # Surfs Up 
 
-## Overview - Draft
+## Overview 
 Oahu, Hawaii is reputed to be the home of several famous surfing beaches with some of the best wave riding in the world. The client, who is himself a surfer, is interested in opening a surf and ice cream shop in Oahu but needs to know if it would be sustainable year-round. In addition, the client has an investor who needs reassurance that this is a reliable venture before he will provide any funds. The client requested an analysis of temperatures for the months of June and December. However, additional information about temperture variation and preciptiation were also provided to further assist the client.
 ## Results
 Hawaii's weather data (via sqlite) was utilized to query the summary statistics for June and December.
